@@ -13,6 +13,7 @@ setup(
     version=version['__version__'],
     description='argparse extensions',
     long_description=readme,
+    long_description_content_type='text/markdown',
     url='https://github.com/nkouevda/argparse-extensions',
     author='Nikita Kouevda',
     author_email='nkouevda@gmail.com',
