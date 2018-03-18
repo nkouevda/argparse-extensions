@@ -20,4 +20,4 @@ This will handle `--no-foo` in addition to `--foo`.
 
 ## License
 
-Licensed under the [MIT License](http://www.opensource.org/licenses/MIT).
+[MIT License](LICENSE.txt)
