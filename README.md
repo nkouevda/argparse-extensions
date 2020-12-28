@@ -8,6 +8,10 @@
 
 ## Usage
 
+### NegatableStoreTrueAction
+
+:warning: Deprecated: Python 3.9 introduced `argparse.BooleanOptionalAction`
+
 `action=argparse_extensions.NegatableStoreTrueAction` is a drop-in replacement
 for `action='store_true'`:
 
